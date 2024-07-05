@@ -9,8 +9,7 @@ This project is a web-based Password Generator that allows users to create secur
 - **Password Copy:** Users can easily copy the generated password to the clipboard.
 
 ## Live Demo
-You can see a live demo of the Password Generator [here](https://your-github-username.github.io/your-repo-name).
-
+You can see a live demo of the Password Generator : (https://poojithreddy28.github.io/password-generator/)
 ## Usage
 1. Open the live demo link.
 2. Adjust the password length using the slider.
