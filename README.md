@@ -1,4 +1,4 @@
-# Password Generator
+# Password Generator 🔑
 
 ## Overview
 This project is a web-based Password Generator that allows users to create secure and random passwords with customizable options. Users can specify the length of the password and choose to include lowercase letters, uppercase letters, numbers, and special characters.
